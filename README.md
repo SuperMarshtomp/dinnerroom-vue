@@ -10,6 +10,7 @@ a vue project
 
 ## 使用
 ### 开发
+```
 npm i
 cd server
 node index.js
@@ -17,3 +18,4 @@ cd ..
 cd dinnerroom
 npm i 
 npm run serve
+```
