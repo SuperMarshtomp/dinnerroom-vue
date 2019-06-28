@@ -1,7 +1,7 @@
 //引入mongoose模块
 const mongoose = require('mongoose')
 
-mongoose.connect('', {useNewUrlParser:true})
+mongoose.connect('', {useNewUrlParser:true})      //sign your db add.
 
 const userSchema = new mongoose.Schema({
   name: String,
