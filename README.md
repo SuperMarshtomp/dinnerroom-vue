@@ -29,11 +29,11 @@ npm run build
 打包后的文件存放在 server/public文件夹中
 
 #### 服务器
-> 在服务器中建一个文件夹，
-> 将本地server文件夹中的public、routes、dinnerroomback.js文件整个上传到服务器文件夹中，
-> 将本地项目根目录中node_modules和package.json文件上传到服务器文件夹中， 
+·在服务器中建一个文件夹，
+··将本地server文件夹中的public、routes、dinnerroomback.js文件整个上传到服务器文件夹中，
+···将本地项目根目录中node_modules和package.json文件上传到服务器文件夹中， 
   PS：不是dinnerroom文件夹中的node_modules，无需上传dinnerroom文件夹中的node_modules；最好压缩后再上传，不然会由于文件数过多导致上传时间过久
-> 在服务器该项目存放的文件夹目录中打开终端命令
+····在服务器该项目存放的文件夹目录中打开终端命令
 ```
 pm2 start dinnerroomback.js
 ```
