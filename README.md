@@ -20,8 +20,8 @@ npm i / cnpm i
 npm run serve   #启动前端
 ```
 ### 部署
-#### 准备
 部署到生产环境
+#### 准备
 ```
 cd server
 npm run build
