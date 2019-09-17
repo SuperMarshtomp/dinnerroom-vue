@@ -1,6 +1,8 @@
 # dinnerroom-vue
 a vue project
 
+## 在线预览
+https://dinnerroom-marshtomp.herokuapp.com/
 
 ## 介绍
 这个是一个展示饭堂菜单用的 vue+node+mongodb 的项目
